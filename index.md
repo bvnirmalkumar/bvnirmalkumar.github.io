@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+---
+
+Principal Engineer focused on security decisions, system integrity, and large-scale automation.
+
 ## Work
 - [Selected projects](/work/)
 
